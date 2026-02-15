@@ -31,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
