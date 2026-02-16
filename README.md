@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0445-add-two-numbers-ii) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Stack
 |  |
 | ------- |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+## Number Theory
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
