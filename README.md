@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0445-add-two-numbers-ii) |
+| [2396-strictly-palindromic-number](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0844-backspace-string-compare) |
+| [2396-strictly-palindromic-number](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
