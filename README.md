@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0342-power-of-four) |
 ## Recursion
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0682-baseball-game](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
@@ -114,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
