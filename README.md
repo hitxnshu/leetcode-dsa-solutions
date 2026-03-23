@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0342-power-of-four) |
+| [2351-first-letter-to-appear-twice](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Recursion
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0844-backspace-string-compare) |
+| [2351-first-letter-to-appear-twice](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Stack
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Number Theory
 |  |
 | ------- |
