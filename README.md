@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Divide and Conquer
