@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1609-even-odd-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1609-even-odd-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1609-even-odd-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
