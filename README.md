@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1302-deepest-leaves-sum) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1302-deepest-leaves-sum) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0912-sort-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
