@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0912-sort-an-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0844-backspace-string-compare) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Simulation
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Counting
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1302-deepest-leaves-sum) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1302-deepest-leaves-sum) |
@@ -279,5 +284,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
