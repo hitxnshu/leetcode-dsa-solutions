@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0912-sort-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -330,10 +332,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
