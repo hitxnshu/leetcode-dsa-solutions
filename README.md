@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0216-combination-sum-iii) |
 | [0682-baseball-game](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
+| [0904-fruit-into-baskets](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0904-fruit-into-baskets](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0904-fruit-into-baskets) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
