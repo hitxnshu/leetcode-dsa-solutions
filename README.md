@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0445-add-two-numbers-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1052-grumpy-bookstore-owner](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1248-count-number-of-nice-subarrays](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1695-maximum-erasure-value) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1248-count-number-of-nice-subarrays](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -372,5 +376,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
