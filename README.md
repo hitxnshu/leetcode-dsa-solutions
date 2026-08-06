@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1302-deepest-leaves-sum) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -381,4 +383,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
