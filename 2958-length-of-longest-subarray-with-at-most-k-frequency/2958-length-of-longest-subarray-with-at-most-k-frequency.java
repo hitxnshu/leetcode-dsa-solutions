@@ -10,9 +10,9 @@ class Solution {
                 map.put(nums[r],1);
             }
             while(map.get(nums[r]) > k){
-            map.put(nums[l],map.get(nums[l])-1);
-            map.remove(nums[l],0);
-            l++;
+                map.put(nums[l],map.get(nums[l])-1);
+                map.remove(nums[l],0);
+                l++;
             }
             maxLen = Math.max(maxLen,r-l+1);
             r++;
