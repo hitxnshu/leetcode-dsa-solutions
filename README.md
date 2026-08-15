@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2351-first-letter-to-appear-twice](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Stack
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Prefix Sum
 |  |
 | ------- |
