@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0326-power-of-three) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
@@ -421,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0187-repeated-dna-sequences) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
