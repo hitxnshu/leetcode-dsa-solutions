@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0216-combination-sum-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
