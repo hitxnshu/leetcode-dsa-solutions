@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0239-sliding-window-maximum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -431,4 +434,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
