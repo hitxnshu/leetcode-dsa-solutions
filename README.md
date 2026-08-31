@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0844-backspace-string-compare) |
+| [1143-longest-common-subsequence](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0392-is-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
 |  |
@@ -461,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
