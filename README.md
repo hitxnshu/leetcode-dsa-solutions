@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0392-is-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1143-longest-common-subsequence) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0547-number-of-provinces) |
@@ -470,4 +473,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1143-longest-common-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
