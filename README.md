@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0392-is-subsequence) |
+| [0740-delete-and-earn](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0740-delete-and-earn](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1248-count-number-of-nice-subarrays) |
