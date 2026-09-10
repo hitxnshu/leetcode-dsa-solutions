@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0221-maximal-square) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -486,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0322-coin-change) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
