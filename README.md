@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0844-backspace-string-compare) |
+| [1861-rotating-the-box](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1861-rotating-the-box) |
 | [2396-strictly-palindromic-number](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1695-maximum-erasure-value) |
+| [1861-rotating-the-box](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1861-rotating-the-box) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [1861-rotating-the-box](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1861-rotating-the-box) |
 ## Sliding Window
 |  |
 | ------- |
