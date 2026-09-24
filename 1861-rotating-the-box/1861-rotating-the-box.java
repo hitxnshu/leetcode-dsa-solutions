@@ -23,14 +23,6 @@ class Solution {
                 rotatedBox[i][j] = boxGrid[m-1-j][i];
             }
         }
-        // for(int i = n-1;i > 0;i--){
-        //     for(int j = 0;j < m;j++){
-        //         if(rotatedBox[i][j] == '.' && rotatedBox[i-1][j] != '*' && rotatedBox[i-1][j] == '#'){
-        //             rotatedBox[i][j] = '#';
-        //             rotatedBox[i-1][j] = '.';
-        //         }
-        //     }
-        // }
         return rotatedBox;
     }
 }
