@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0322-coin-change) |
+| [0498-diagonal-traverse](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0844-backspace-string-compare) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0221-maximal-square) |
+| [0498-diagonal-traverse](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0498-diagonal-traverse) |
 | [0931-minimum-falling-path-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1861-rotating-the-box](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1861-rotating-the-box) |
 ## Sliding Window
