@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0090-subsets-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0498-diagonal-traverse) |
