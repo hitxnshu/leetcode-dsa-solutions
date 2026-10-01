@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1695-maximum-erasure-value) |
 | [1861-rotating-the-box](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1861-rotating-the-box) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0844-backspace-string-compare) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0498-diagonal-traverse) |
 | [0931-minimum-falling-path-sum](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1861-rotating-the-box](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1861-rotating-the-box) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Sliding Window
 |  |
 | ------- |
