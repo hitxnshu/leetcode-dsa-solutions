@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0856-score-of-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -510,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/hitxnshu/leetcode-dsa-solutions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
